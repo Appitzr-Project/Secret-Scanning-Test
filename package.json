@@ -1,0 +1,11 @@
+{
+  "name": "Secret-Scanning-Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Appitzr-Project/Secret-Scanning-Test.git",
+  "author": "JuniYadi <juniyadi94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.864.0"
+  }
+}
